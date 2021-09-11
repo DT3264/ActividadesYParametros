@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ActividadesYParametros</string>
+    <string name="correo">Correo</string>
+    <string name="telefono">Telefono</string>
+    <string name="nombre">Nombre</string>
+    <string name="clave">Clave</string>
+    <string name="registrar">Registrar</string>
+    <string name="cancelar">Cancelar</string>
+</resources>
